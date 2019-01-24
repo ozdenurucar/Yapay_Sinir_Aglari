@@ -1,4 +1,4 @@
-# Yapay Sinir Aglari
+# Yapay Sinir Ağları
 
 Yapay sinir ağları (YSA) insan beyninden esinlenmiştir.
 Öğrenme sürecinin matematiksel olarak modellenmesi temeline dayanmaktadır.
@@ -40,4 +40,15 @@ Birden çok iterasyon sonucunda sistem minimum hatalı olan noktaya erişecektir
 Eğitim sırasında, yapay sinir ağı hatanın azaldığı yerde durmayı sürdürmek ister. 
 Yapay sinir ağı için local minima tuzağına düşmek doğaldır ve bu durum global minimuma ulaşmasına engel olabilir. 
 Momentum öğrenme algoritmasını local minimumdan kaçacak şekilde önceki yönde tutmaya çalışır. 
+
+## Yapay Sinir Ağının Öğrenme Özellikleri / Durdurma kriteri
+
+Zaman eşik değerine ulaştığında bitebilir.
+
+Önceden tanımlı epoch değeri vardır algoritma bu epoch a ulaştığında bitebilir.
+
+Önceden tanımlı hata değerine eriştiğinde bitebilir.
+
+İki epoch arasındaki hata değeri azaldığında eğitim bitebilir. Eğitim devam etse bile performansta çok fazla değişiklik olmayacağı hesap edilir.  
+
 
