@@ -11,4 +11,4 @@ YSA, kendisine örnekler gösterildikçe bu ağırlık değerlerini değiştirir
 Hedef, ağa gösterilen örnekler için doğru çıkışları verecek ağırlıkları bulmaktır. 
 
 
-[]https://github.com/ozdenurucar/Yapay_Sinir_Aglari/blob/master/Resimler/ysa_genelyapi.png
+![](https://github.com/ozdenurucar/Yapay_Sinir_Aglari/blob/master/Resimler/ysa_genelyapi.png)
