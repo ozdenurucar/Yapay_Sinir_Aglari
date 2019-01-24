@@ -1,4 +1,4 @@
-# Yapay Sinir Ağları
+## Yapay Sinir Ağları
 
 Yapay sinir ağları (YSA) insan beyninden esinlenmiştir.
 Öğrenme sürecinin matematiksel olarak modellenmesi temeline dayanmaktadır.
@@ -13,7 +13,7 @@ Hedef, ağa gösterilen örnekler için doğru çıkışları verecek ağırlık
 
 ![](https://github.com/ozdenurucar/Yapay_Sinir_Aglari/blob/master/Resimler/ysa_genelyapi.png)
 
-## Yapay Sinir Ağının Öğrenme Özellikleri / Hata Fonksiyonu
+**Yapay Sinir Ağının Öğrenme Özellikleri / Hata Fonksiyonu**
 
 İyi bir yapay sinir ağı  minimum hataya sahiptir. 
 İyi bir öğrenme fonksiyonu yapay sinir ağını yüksek hatalı bir konfigürasyondan düşük hatalıya taşır. 
@@ -21,19 +21,20 @@ Yapay sinir ağınıdaki hata, hata ölçüm fonksiyonları ile ölçülür.
 Bu hata fonksiyonları eğitim kümesindeki örneklerin hatalarının tümünü temsil eder. Problemin tipine ve tasarımcının seçimine göre farklı Hata fonksiyonları kullanılabilir. 
 En sık kullanılanları verilmiştir:
 
-  Mean absolute error
+Mean absolute error
   
-  Mean squared error
+Mean squared error
   
-  Sum squared error
-  
-### Yapay Sinir Ağının Öğrenme Özellikleri / Learning Rate
+Sum squared error
+
+
+**Yapay Sinir Ağının Öğrenme Özellikleri / Learning Rate**
 
 Büyük öğrenme oranı: sistemin veriyi çok hızlı öğrenir, toplam hata artar. 
 
 Düşük öğrenme oranı: sistem çok yavaş öğrenir, eğitim zamanı artar ancak hata azalır. 
 
-### Yapay Sinir Ağının Öğrenme Özellikleri / Momentum
+**Yapay Sinir Ağının Öğrenme Özellikleri / Momentum**
 
 Yapay sinir ağı her adımda daha az hata değerine sahip bir noktaya gelmek isteyecektir. 
 Birden çok iterasyon sonucunda sistem minimum hatalı olan noktaya erişecektir. 
@@ -41,7 +42,7 @@ Eğitim sırasında, yapay sinir ağı hatanın azaldığı yerde durmayı sürd
 Yapay sinir ağı için local minima tuzağına düşmek doğaldır ve bu durum global minimuma ulaşmasına engel olabilir. 
 Momentum öğrenme algoritmasını local minimumdan kaçacak şekilde önceki yönde tutmaya çalışır. 
 
-## Yapay Sinir Ağının Öğrenme Özellikleri / Durdurma kriteri
+**Yapay Sinir Ağının Öğrenme Özellikleri / Durdurma kriteri**
 
 Zaman eşik değerine ulaştığında bitebilir.
 
