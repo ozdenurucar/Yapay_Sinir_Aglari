@@ -9,3 +9,6 @@ Dış ortamdan veya diğer hücrelerden alınan girdiler, ağırlıklar yardım�
 Her bağlantının bir ağırlık değeri vardır. 
 YSA, kendisine örnekler gösterildikçe bu ağırlık değerlerini değiştirir.
 Hedef, ağa gösterilen örnekler için doğru çıkışları verecek ağırlıkları bulmaktır. 
+
+
+[]https://github.com/ozdenurucar/Yapay_Sinir_Aglari/blob/master/Resimler/ysa_genelyapi.png
