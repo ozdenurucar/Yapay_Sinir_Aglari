@@ -27,13 +27,13 @@ En sık kullanılanları verilmiştir:
   
   Sum squared error
   
-## Yapay Sinir Ağının Öğrenme Özellikleri / Learning Rate
+### Yapay Sinir Ağının Öğrenme Özellikleri / Learning Rate
 
 Büyük öğrenme oranı: sistemin veriyi çok hızlı öğrenir, toplam hata artar. 
 
 Düşük öğrenme oranı: sistem çok yavaş öğrenir, eğitim zamanı artar ancak hata azalır. 
 
-## Yapay Sinir Ağının Öğrenme Özellikleri / Momentum
+### Yapay Sinir Ağının Öğrenme Özellikleri / Momentum
 
 Yapay sinir ağı her adımda daha az hata değerine sahip bir noktaya gelmek isteyecektir. 
 Birden çok iterasyon sonucunda sistem minimum hatalı olan noktaya erişecektir. 
