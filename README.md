@@ -22,5 +22,22 @@ Bu hata fonksiyonları eğitim kümesindeki örneklerin hatalarının tümünü 
 En sık kullanılanları verilmiştir:
 
   Mean absolute error
+  
   Mean squared error
+  
   Sum squared error
+  
+## Yapay Sinir Ağının Öğrenme Özellikleri / Learning Rate
+
+Büyük öğrenme oranı: sistemin veriyi çok hızlı öğrenir, toplam hata artar. 
+
+Düşük öğrenme oranı: sistem çok yavaş öğrenir, eğitim zamanı artar ancak hata azalır. 
+
+## Yapay Sinir Ağının Öğrenme Özellikleri / Momentum
+
+Yapay sinir ağı her adımda daha az hata değerine sahip bir noktaya gelmek isteyecektir. 
+Birden çok iterasyon sonucunda sistem minimum hatalı olan noktaya erişecektir. 
+Eğitim sırasında, yapay sinir ağı hatanın azaldığı yerde durmayı sürdürmek ister. 
+Yapay sinir ağı için local minima tuzağına düşmek doğaldır ve bu durum global minimuma ulaşmasına engel olabilir. 
+Momentum öğrenme algoritmasını local minimumdan kaçacak şekilde önceki yönde tutmaya çalışır. 
+
