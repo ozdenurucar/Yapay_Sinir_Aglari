@@ -99,4 +99,5 @@ Gizli katman (n),
         Örnek ağa gösterilir
         Hatanın hesaplanması
 * Bulunan hataya göre ağırlıkların güncellenmesi
+
         Sistemin toplam hatası hesaplanır.
