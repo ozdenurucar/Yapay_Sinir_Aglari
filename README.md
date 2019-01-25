@@ -74,5 +74,6 @@ Gizli katman (n),
 
 **Çıkış katmanı:** Gizli katmandan gelen bilgiyi işler ve giriş katmanına gelen girdiye uygun olarak üretilen çıktıyı dış dünyaya gönderir.Nöronların sayısı sistemden beklenen çıkışlar kadardır. Her nöron tek bir çıkışa aittir. 
 
+![](https://github.com/ozdenurucar/Yapay_Sinir_Aglari/blob/master/Resimler/mlp_2.png)
 
 
