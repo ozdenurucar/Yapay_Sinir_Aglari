@@ -52,4 +52,7 @@ Zaman eşik değerine ulaştığında bitebilir.
 
 İki epoch arasındaki hata değeri azaldığında eğitim bitebilir. Eğitim devam etse bile performansta çok fazla değişiklik olmayacağı hesap edilir.  
 
+### Multilayer Perceptron (MLP) Genel Yapısı
+
+
 
