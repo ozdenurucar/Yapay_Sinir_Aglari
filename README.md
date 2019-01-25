@@ -55,4 +55,23 @@ Zaman eşik değerine ulaştığında bitebilir.
 ### Multilayer Perceptron (MLP) Genel Yapısı
 
 
+Yapay Sinir Ağı, yapay sinir hücrelerinin (perceptron) birbirlerine bağlanması sonucu oluşan yapılardır.
+
+Yapay Sinir Ağı mimarisi katmanlardan kurulmuştur. 
+Katmanların sayısı Yapay Sinir Ağının işlemsel karmaşıklığını ifade etmektedir. 
+Daha çok sayıda katmandan oluşan ANN’ler her zaman daha az katmandan oluşanlara göre daha fazla işlem zamanı talep edeceklerdir. 
+
+Giriş katmanı (1), 
+
+Gizli katman (n), 
+
+Çıkış katmanı (1). 	
+
+**Giriş Katmanı:** YSA’ya dış dünyadan bilgilerin geldiği katmandır. Bu katmandaki nöronların sayısı giriş sayısı kadardır. Her nöron bir girişe aittir. girdiler herhangi bir işleme uğramadan gizli katmana iletilirler.
+
+**Gizli katmanlar:** Giriş katmanından aldığı bilgiyi işleyerek bir sonraki katmana iletir Bu katman asıl bilgi işlemenin gerçekleştirildiği katmandır. Her gizli katmandaki nöron sayısı değişkenlik gösterebilir. Genelde bu katmandaki nöronların sayısı giriş ve çıkış katmanındaki nöron sayılarından fazladır. Gizli katman sayısı ağın karmaşıklığını da kontrol altında tutmaya yarar. 
+
+**Çıkış katmanı:** Gizli katmandan gelen bilgiyi işler ve giriş katmanına gelen girdiye uygun olarak üretilen çıktıyı dış dünyaya gönderir.Nöronların sayısı sistemden beklenen çıkışlar kadardır. Her nöron tek bir çıkışa aittir. 
+
+
 
