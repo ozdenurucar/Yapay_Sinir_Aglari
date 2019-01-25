@@ -77,3 +77,26 @@ Gizli katman (n),
 ![](https://github.com/ozdenurucar/Yapay_Sinir_Aglari/blob/master/Resimler/mlp_2.png)
 
 
+### YSA Çalışma Adımları
+
+ 
+* Örneklerin belirlenmesi
+
+* Ağın topolojisinin belirlenmesi
+
+* Girdi ve çıktı sayısının belirlenmesi
+
+* Ağın öğrenme parametrelerinin belirlenmesi 
+
+* öğrenme katsayısı ve sabitlerin belirlenmesi
+
+* Ağın başlangıç değerlerinin atanması
+
+* Epoch sayısı kadar
+
+* Eğitim setindeki tüm örnekler için
+
+        Örnek ağa gösterilir
+        Hatanın hesaplanması
+* Bulunan hataya göre ağırlıkların güncellenmesi
+        Sistemin toplam hatası hesaplanır.
