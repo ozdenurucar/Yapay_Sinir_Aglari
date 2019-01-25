@@ -54,6 +54,7 @@ Zaman eşik değerine ulaştığında bitebilir.
 
 ### Multilayer Perceptron (MLP) Genel Yapısı
 
+![](https://github.com/ozdenurucar/Yapay_Sinir_Aglari/blob/master/Resimler/mlp.png)
 
 Yapay Sinir Ağı, yapay sinir hücrelerinin (perceptron) birbirlerine bağlanması sonucu oluşan yapılardır.
 
