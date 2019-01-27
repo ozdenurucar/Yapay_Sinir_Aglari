@@ -61,8 +61,11 @@ Yapay Sinir Ağı, yapay sinir hücrelerinin (perceptron) birbirlerine bağlanma
 Yapay Sinir Ağı mimarisi katmanlardan kurulmuştur. 
 Katmanların sayısı Yapay Sinir Ağının işlemsel karmaşıklığını ifade etmektedir. 
 Daha çok sayıda katmandan oluşan ANN’ler her zaman daha az katmandan oluşanlara göre daha fazla işlem zamanı talep edeceklerdir. 
+
 Giriş katmanı (1), 
+
 Gizli katman (n), 
+
 Çıkış katmanı (1). 	
 
 **Giriş Katmanı:** YSA’ya dış dünyadan bilgilerin geldiği katmandır. Bu katmandaki nöronların sayısı giriş sayısı kadardır. Her nöron bir girişe aittir. girdiler herhangi bir işleme uğramadan gizli katmana iletilirler.
