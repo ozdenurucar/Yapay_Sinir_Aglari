@@ -62,6 +62,8 @@ Zaman eşik değerine ulaştığında bitebilir.
 Bunu bir XOR kapısı örneği alarak anlayalım. Aşağıdaki diyagramı göz önünde bulundurun:
 
 
+Burada, yüksek ve alçak noktaları tek bir düz çizgi ile ayıramazsınız. Fakat onu iki düz çizgiyle ayırabiliriz. Aşağıdaki diyagramı göz önünde bulundurun:
+
 
 ### Multilayer Perceptron (MLP) Genel Yapısı
 
