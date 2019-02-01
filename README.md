@@ -120,3 +120,5 @@ Gizli katman (n),
 ### Kaynaklar
 
 https://www.edureka.co/blog/neural-network-tutorial/
+
+http://deeplearning.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
