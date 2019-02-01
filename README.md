@@ -59,6 +59,10 @@ Zaman eşik değerine ulaştığında bitebilir.
  Çok katmanlı parametreleri içeren karmaşık problemler, Tek Katmanlı Algılayıcılar tarafından çözülemez.
  Tek Katmanlı Algılayıcılar, doğrusal olmayan ayrılabilir veri noktalarını sınıflandıramaz.
 
+Bunu bir XOR kapısı örneği alarak anlayalım. Aşağıdaki diyagramı göz önünde bulundurun:
+
+
+
 ### Multilayer Perceptron (MLP) Genel Yapısı
 
 ![](https://github.com/ozdenurucar/Yapay_Sinir_Aglari/blob/master/Resimler/mlp.png)
