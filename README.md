@@ -114,3 +114,9 @@ Gizli katman (n),
 * Bulunan hataya göre ağırlıkların güncellenmesi
 
         Sistemin toplam hatası hesaplanır.
+
+
+
+###Kaynaklar
+
+https://www.edureka.co/blog/neural-network-tutorial/
