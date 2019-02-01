@@ -117,6 +117,6 @@ Gizli katman (n),
 
 
 
-###Kaynaklar
+### Kaynaklar
 
 https://www.edureka.co/blog/neural-network-tutorial/
