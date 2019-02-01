@@ -57,6 +57,7 @@ Zaman eşik değerine ulaştığında bitebilir.
 İki ana problem var: 
  Tek Katmanlı Perküsyonlar doğrusal olmayan ayrılabilir veri noktalarını sınıflandıramaz. 
  Çok katmanlı parametreleri içeren karmaşık problemler, Tek Katmanlı Algılayıcılar tarafından çözülemez.
+ Tek Katmanlı Algılayıcılar, doğrusal olmayan ayrılabilir veri noktalarını sınıflandıramaz.
 
 ### Multilayer Perceptron (MLP) Genel Yapısı
 
