@@ -52,6 +52,19 @@ Zaman eşik değerine ulaştığında bitebilir.
 
 İki epoch arasındaki hata değeri azaldığında eğitim bitebilir. Eğitim devam etse bile performansta çok fazla değişiklik olmayacağı hesap edilir.  
 
+**Tek Katmanlı Algılayıcının(Single Layer Perceptron) Sınırlamaları:**
+
+İki ana problem var: 
+ Tek Katmanlı Perküsyonlar doğrusal olmayan ayrılabilir veri noktalarını sınıflandıramaz. 
+ Çok katmanlı parametreleri içeren karmaşık problemler, Tek Katmanlı Algılayıcılar tarafından çözülemez.
+ Tek Katmanlı Algılayıcılar, doğrusal olmayan ayrılabilir veri noktalarını sınıflandıramaz.
+
+Bunu bir XOR kapısı örneği alarak anlayalım. Aşağıdaki diyagramı göz önünde bulundurun:
+
+
+Burada, yüksek ve alçak noktaları tek bir düz çizgi ile ayıramazsınız. Fakat onu iki düz çizgiyle ayırabiliriz. Aşağıdaki diyagramı göz önünde bulundurun:
+
+
 ### Multilayer Perceptron (MLP) Genel Yapısı
 
 ![](https://github.com/ozdenurucar/Yapay_Sinir_Aglari/blob/master/Resimler/mlp.png)
@@ -101,3 +114,11 @@ Gizli katman (n),
 * Bulunan hataya göre ağırlıkların güncellenmesi
 
         Sistemin toplam hatası hesaplanır.
+
+
+
+### Kaynaklar
+
+https://www.edureka.co/blog/neural-network-tutorial/
+
+http://deeplearning.stanford.edu/tutorial/supervised/MultiLayerNeuralNetworks/
